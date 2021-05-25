@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+
+//클래스형 컴포넌트에서 form handling하기
 class form extends Component {
   constructor(props) {
     super(props)
